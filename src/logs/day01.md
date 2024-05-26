@@ -4,7 +4,6 @@ Variables are containers for storing data values. In JavaScript, you can declare
 
 #### Example:
 
-````javascript
 // Using var
 var name = "Alice";
 console.log(name); // Output: Alice
@@ -17,21 +16,20 @@ console.log(age); // Output: 30
 const PI = 3.14159;
 console.log(PI); // Output: 3.14159
 
-
 ### 2. Data Types
 
 JavaScript supports several data types including:
 
-- **String**: Textual data
-- **Number**: Numeric data
-- **Boolean**: True or false
-- **Object**: Collection of key-value pairs
-- **Array**: Ordered list of values
-- **Undefined**: A variable that has been declared but not assigned a value
-- **Null**: Represents the intentional absence of any object value
+- String: Textual data
+- Number: Numeric data
+- Boolean: True or false
+- Object: Collection of key-value pairs
+- Array: Ordered list of values
+- Undefined: A variable that has been declared but not assigned a value
+- Null: Represents the intentional absence of any object value
 
 #### Example:
-```javascript
+
 // String
 let firstName = "John";
 console.log(typeof firstName); // Output: string
@@ -46,8 +44,8 @@ console.log(typeof isActive); // Output: boolean
 
 // Object
 let person = {
-  name: "Alice",
-  age: 30
+name: "Alice",
+age: 30
 };
 console.log(typeof person); // Output: object
 
@@ -62,27 +60,25 @@ console.log(typeof x); // Output: undefined
 // Null
 let y = null;
 console.log(typeof y); // Output: object (this is a known quirk in JavaScript)
-````
 
 ### 3. Operators
 
 JavaScript includes a variety of operators:
 
-- **Arithmetic Operators**: `+`, `-`, `*`, `/`, `%`
-- **Assignment Operators**: `=`, `+=`, `-=`, `*=`, `/=`
-- **Comparison Operators**: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`
-- **Logical Operators**: `&&`, `||`, `!`
+- Arithmetic Operators: `+`, `-`, `*`, `/`, `%`
+- Assignment Operators: `=`, `+=`, `-=`, `*=`, `/=`
+- Comparison Operators: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`
+- Logical Operators: `&&`, `||`, `!`
 
 #### Example:
 
-```javascript
 // Arithmetic Operators
 let a = 10;
 let b = 3;
 
 console.log(a + b); // Output: 13
 console.log(a - b); // Output: 7
-console.log(a * b); // Output: 30
+console.log(a \* b); // Output: 30
 console.log(a / b); // Output: 3.3333333333333335
 console.log(a % b); // Output: 1
 
@@ -109,4 +105,3 @@ let isFalse = false;
 console.log(isTrue && isFalse); // Output: false (AND)
 console.log(isTrue || isFalse); // Output: true (OR)
 console.log(!isTrue); // Output: false (NOT)
-```
