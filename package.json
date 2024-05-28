@@ -4,7 +4,7 @@
   "description": "Welcome to my 100 Days of Code Challenge repository! 🚀",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "tsc -b && node dist/index.js",
     "build": "tsc -b",
     "tsc:watch": "tsc -w"
   },
