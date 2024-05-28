@@ -44,7 +44,7 @@ I would love to hear from others who are taking on the 100 Days of Code Challeng
 
 - GitHub: [iamniteshpandit](https://github.com/iamniteshpandit)
 - Twitter: [@iamniteshpandit](https://twitter.com/iamniteshpandit)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/iamniteshpandit)
+- LinkedIn: [@iamniteshpandit](https://linkedin.com/in/iamniteshpandit)
 
 ## Acknowledgments
 
