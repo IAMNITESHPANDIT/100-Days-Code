@@ -46,6 +46,3 @@ I would love to hear from others who are taking on the 100 Days of Code Challeng
 - Twitter: [@iamniteshpandit](https://twitter.com/iamniteshpandit)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/iamniteshpandit)
 
-## Acknowledgments
-
-A big thank you to the 100 Days of Code community for the support and encouragement. Special thanks to [Alexander Kallaway](https://twitter.com/ka11away) for creating the 100 Days of Code Challenge.
